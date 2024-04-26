@@ -89,7 +89,7 @@ In this scenario, we are working as a SOC analyst who needs to ingest some logs 
  <br />
 <br />
 16. A quick search will now show us that our logs are pulling in correctly and the props.conf file is working perfectly:  <br/>
-<img src="https://imgur.com/KLI12Vlpng" height="80%" width="80%" alt="Data Manipulation"/>
+<img src="https://imgur.com/KLI12Vl.png" height="80%" width="80%" alt="Data Manipulation"/>
  <br />
 <br />
 17. Next, we are going to parse events that contain multiple lines. Start by copying over the Authentication_logs from our downloads folder and adding these lines to the inputs.conf file:  <br/>
